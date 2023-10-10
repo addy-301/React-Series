@@ -23,7 +23,6 @@ useEffect(() => {passwordGen()},[length, numberAllowed, characterAllowed,passwor
 
   return (
     <>
-      
       <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 my-8 text-pink-600 bg-gray-900">
       <h1 className='text-2xl text-center text-white'>Password Generator</h1>
         <div className="flex shadow rounded-lg overflow-hidden mb-4">
