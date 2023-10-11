@@ -1,1 +1,1 @@
-this is react series
+Various React Projects, built during my learning journey
